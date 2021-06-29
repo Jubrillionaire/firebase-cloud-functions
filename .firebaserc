@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "customers-app-restapi"
+  }
+}
